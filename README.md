@@ -1,11 +1,8 @@
 ## KRUSPA runner
 
-the trex runner game extracted from chrome offline err page.
+[играть](http://S0lve-et-C0agula.github.io/0/)
 
 [оригинал](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7)
-
-
-[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
 
 ![chrome offline game cast](assets/screenshot.gif)
 
